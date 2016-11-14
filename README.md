@@ -1,3 +1,3 @@
 # hello-word
-my first githut a project
-my modify githut a project
+my first github a project
+my modify github a project
